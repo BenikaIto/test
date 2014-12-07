@@ -8,4 +8,6 @@
 	 - 適宜status確認
  - GitHubにアップする
 	 - GitHubにadd
-	 - pushする 
+	 - pushする
+
+###忘れてないかの復習2014.12.8
